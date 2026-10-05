@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Dicky 👋
 
-<!--
-**dickymaulana-git/dickymaulana-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile & Software Engineer
 
-Here are some ideas to get you started:
+I build mobile applications and backend services with a focus on clean architecture, scalability, performance, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Mobile**
+- Swift
+- SwiftUI
+- UIKit
+- React Native
+- Expo
+
+**Backend**
+- Go
+- Laravel
+- Node.js / Express
+
+**Database**
+- PostgreSQL
+- Supabase
+- Redis
+
+**Architecture & Tools**
+- MVVM
+- Clean Architecture
+- REST API
+- Redux Toolkit
+- Moya
+- Git & GitHub
+- Xcode
+- Firebase
+
+### 🚀 What I Build
+
+- 📱 Native iOS applications with Swift & SwiftUI
+- ⚛️ Cross-platform mobile applications with React Native & Expo
+- ⚙️ Backend services and REST APIs with Go & Laravel
+- 🛡️ Secure mobile applications and authentication flows
+- 🔍 Developer tools for debugging, performance monitoring, and network inspection
+
+### 📌 Featured Projects
+
+**DebugToolkit**  
+An iOS debugging toolkit for monitoring performance, memory, FPS, CPU usage, logs, and network requests.
+
+**CIO**  
+An educational mobile game designed for young children, built with SwiftUI and MVVM.
+
+### 💡 Engineering Interests
+
+- Mobile Architecture
+- Performance Optimization
+- Application Security
+- Developer Experience
+- Backend Architecture
+- Cross-platform Development
+
+---
+
+⭐ Feel free to explore my repositories and projects.
